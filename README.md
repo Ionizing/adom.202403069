@@ -68,7 +68,7 @@ For 50 K:
    the couplings will be written to `NAC-50K.h5`
 
 2. Run NAMD at `50K/namd/single-electron` and `50K/namd/multi-electron` with similar processes shown
-   in step 2 to step 4 of previous subsection.
+   in step 2 to step 4 at 0 K.
 
 The process for 100 K is same as 50 K.
 
