@@ -4,6 +4,10 @@ Paper link: https://onlinelibrary.wiley.com/doi/10.1002/adom.202403069
 
 ---
 
+## Tool requirements
+- NAMD-LMI: https://github.com/Ionizing/NAMD-LMI (0.2.0 or upper)
+- rsgrad: https://github.com/Ionizing/rsgrad (0.5.0 or upper)
+
 ## Electronic structure at 0 K
 
 - Location: `0K/`
