@@ -72,7 +72,7 @@ For 50 K:
 
 The process for 100 K is same as 50 K.
 
-You may need the following reference result files, where they will be uploaded
+You may need the following reference result files, which will be uploaded
 to https://github.com/Ionizing/adom.202403069/releases due to GitHub file size limit.
 
 - `50K/namd/NAC-50K.h5`
