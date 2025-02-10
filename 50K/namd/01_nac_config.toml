@@ -1,0 +1,12 @@
+####        NAMD-lumi config for Non-Adiabatic Coupling (NAC) calculation       ####
+####    YOU NEED TO CHANGE THE PARAMETERS IN THE FOLLOWING TO FIT YOU SYSTEM    ####
+
+               rundir = "../static_ncl/run"
+              ikpoint = 1
+               brange = [207, 224]
+                  nsw = 3000
+               ndigit = 4
+                potim = 1
+          temperature = 50.0
+      phasecorrection = true
+             nacfname = "NAC-50K.h5"

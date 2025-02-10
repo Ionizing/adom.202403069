@@ -1,0 +1,10 @@
+ikpoint = 1
+basis_list = "213..216 217..220"
+basis_labels = ["vKd", "vK'u", "vK'd", "vKu", "cK'd", "cKu", "cKd", "cK'u"]
+nac_fname = "../NAC-0K.h5"
+propmethod = "Expm"
+scissor = 1.71
+
+# If optical feild presents
+efield_fname = "efield.rhai"
+hamil_fname = "HAMIL-0K-multi-electron-efield.h5"

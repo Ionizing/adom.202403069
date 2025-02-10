@@ -1,0 +1,12 @@
+namdtime = 5000
+nelm = 10
+ntraj = 20000
+shmethod = "FSSH"
+detailed_balance = "DependsOnEField"
+smearing_method = "LorentzianSmearing"
+smearing_sigma = 0.01
+smearing_npoints_per_eV = 500
+hamil_fname = "../HAMIL-0K-multi-electron-efield.h5"
+outdir = "result"
+iniband = "213..216"
+inisteps = [ 5 ]
